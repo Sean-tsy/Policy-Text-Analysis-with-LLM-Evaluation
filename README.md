@@ -57,5 +57,5 @@ The goal is to quantify how different types of policy instruments (regulatory, i
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/policy-text-mining-water-governance.git
+   git clone https://github.com/Sean-tsy/policy-text-mining-water-governance.git
    cd policy-text-mining-water-governance
